@@ -1,3 +1,3 @@
 # My first R program
 
-pritn("Hello world")
+print("Hello world")
